@@ -17,10 +17,10 @@ And to learn something about making algorythms and using your code wisely for ma
 |Timers|❌|✅|
 ------
 
-### Difficulties during development
+## Difficulties during development
 
 When creating the application I ran into the issue of making the moves eventually ive just made it with forloops that reachout to the top of the board and then stop if it sees a pawn that it cant mate it.<br>
 The autocheckmate hasn't been implemented because I've been working on Entitled Engine 2 since I've finished the bare minimum of how chess works.<br>
 
-### Small video how the game looks and plays
+## Small video how the game looks and plays
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/76393975/176200629-3fe6a477-a742-4662-b4d4-696917bf030a.gif)
