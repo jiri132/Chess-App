@@ -5,15 +5,16 @@ I've made a chess application to learn something about typescript and using more
 And to learn something about making algorythms and using your code wisely for making the paths for each and every chess piece with optimizations.<br>
 
 ### What are the functionalities?
-|Functionality|App|
-|---|---|
-|Who's turn|✅|
-|auto-checkmate|❌|
-|sounds|❌|
-|legelMoves|✅|
-|aun pesant|✅|
-|Bots|❌|
-|Player Vs Player|✅|
+|Functionality|my App|other Apps |
+|---|---|---|
+|Who's turn|✅|✅|
+|auto-checkmate|❌|✅|
+|sounds|❌|✅|
+|legelMoves|✅|✅|
+|aun pesant|✅|❌|
+|Bots|❌|✅|
+|Player Vs Player|✅|✅|
+|Timers|❌|✅|
 ------
 
 ### Difficulties during development
