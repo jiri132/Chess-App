@@ -5,7 +5,7 @@ I've made a chess application to learn something about typescript and using more
 And to learn something about making algorythms and using your code wisely for making the paths for each and every chess piece with optimizations.<br>
 
 ### What are the functionalities?
-|Functionality|my App|other Apps |
+|Functionality|my App|chess.com |
 |---|---|---|
 |Who's turn|✅|✅|
 |auto-checkmate|❌|✅|
