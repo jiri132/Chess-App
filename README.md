@@ -11,7 +11,7 @@ And to learn something about making algorythms and using your code wisely for ma
 |auto-checkmate|❌|✅|
 |sounds|❌|✅|
 |legelMoves|✅|✅|
-|aun pesant|✅|❌|
+|aun pesant|✅|✅|
 |Bots|❌|✅|
 |Player Vs Player|✅|✅|
 |Timers|❌|✅|
