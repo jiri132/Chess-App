@@ -1,5 +1,7 @@
 # Chess-App
 
+clikc [HERE](http://jiri.dscloud.me/chessTS/) to play the chess application
+
 ## Why did I make a chess application?
 I've made a chess application to learn something about typescript and using more opensourced projects for my own projects.<br>
 And to learn something about making algorythms and using your code wisely for making the paths for each and every chess piece with optimizations.<br>
