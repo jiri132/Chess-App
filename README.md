@@ -1,6 +1,6 @@
 # Chess-App
 
-clikc [HERE](http://jiri.dscloud.me/chessTS/) to play the chess application
+click [HERE](http://jiri.dscloud.me/chessTS/) to play the chess application
 
 ## Why did I make a chess application?
 I've made a chess application to learn something about typescript and using more opensourced projects for my own projects.<br>
